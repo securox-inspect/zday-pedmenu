@@ -7,7 +7,7 @@
 <p>
   <a href="https://shop.inspect.wtf/produkt/zday-pedmenu"><img src="https://img.shields.io/badge/Preis-34%2C99%C2%A0%E2%82%AC-c1121f?style=for-the-badge&labelColor=121417" alt="Preis 34,99 €" height="28"></a>
   <img src="https://img.shields.io/badge/Version-1.1.0-2b2f36?style=for-the-badge&labelColor=121417" alt="Version 1.1.0" height="28">
-  <img src="https://img.shields.io/badge/Sofort--Download-2b2f36?style=for-the-badge" alt="Sofort-Download" height="28">
+  <img src="https://img.shields.io/badge/Sofort%20verf%C3%BCgbar-2b2f36?style=for-the-badge" alt="Sofort verfügbar" height="28">
   <img src="https://img.shields.io/badge/ESX%20%C2%B7%20QBCore-2b2f36?style=for-the-badge" alt="ESX · QBCore" height="28">
   <img src="https://img.shields.io/badge/Support-Deutsch-2b2f36?style=for-the-badge&labelColor=121417" alt="Support Deutsch" height="28">
 </p>
